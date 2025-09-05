@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+text2
+text4
+text3
+text6
+=======
+text1
+text8
+text7
+text5
+>>>>>>> 13e6dd18ed623ca418b6db87b58c4021c0996b7e
